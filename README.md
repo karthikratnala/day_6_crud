@@ -5,6 +5,8 @@ A simple and basic CRUD application (Create, Read, Update, Delete) using Node.js
 to start the application :
 ```use nodemon index or npm start```
 
+``` I'm using xampp to create database ```
+
 Creating database and table
 
 ```
